@@ -20,5 +20,5 @@ Professionalism - Version control discipline, Accountability
 
 ## Training Modules Completed
 ### CV 
-**[View My CV (PDF)](/cv.pdf)** 
+**[CV Submission.pdf](https://github.com/user-attachments/files/20294469/CV.Submission.pdf)**
 
