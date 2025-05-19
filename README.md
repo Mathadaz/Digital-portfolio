@@ -39,9 +39,9 @@ R – Result: I fixed the issue within a few hours and helped the team meet our 
 - Strengthen communication around trade-offs and system design  
 - Improve confidence when discussing past projects with non-technical people
 
-## 📞 Contact Me
+## Contact Me
 
 - **Email:** zwivhuyamathada7@gmail.com  
 - **Phone:** 066-006-6345  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **GitHub:** (https://github.com/Mathadaz) 
 - **LinkedIn:** (www.linkedin.com/in/zwivhuya-mathada-428997233)
