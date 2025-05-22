@@ -1,5 +1,7 @@
-# Digital-portfolio
+# Zwivhuya Mathada-portfolio
 Welcome to my portfolio repo. This includes key elements from my training in career readiness, soft skills, and workplace professionalism.
+
+# Career Counseling
 
 ## About Me
 Hi, I am Zwivhuya Mathada, a motivated individual with a strong passion in professional growth for techand an aspiring Application Developer with a strong interest in building scalable, user-focused digital solutions. This portfolio highlights my personal and technical development throughout the Work Readiness Programme and demonstrates my readiness for the workplace. This portfolio highlights my achievements, training, and skills gained through the Work Readiness Programme.
@@ -26,7 +28,7 @@ Professionalism - Version control discipline, Accountability
 **[Cover Letter.docx](https://github.com/user-attachments/files/20294801/Cover.Letter.docx)**
 
 ### Mock Interview Reflection (Using STAR Method)
-During the mock interview, I demonstrated my ability to structure responses clearly using the **STAR Method**:
+During the mock interview, I demonstrated my ability to structure responses clearly using the STAR Method:
 
 S – Situation: I described a scenario where I had to debug a broken login system during a university group project.
 T – Task: My role was to identify the bug and ensure users could authenticate successfully.
