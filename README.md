@@ -44,6 +44,6 @@ R – Result: I fixed the issue within a few hours and helped the team meet our 
 ## Contact Me
 
 - **Email:** zwivhuyamathada7@gmail.com  
-- **Phone:** 066-006-6345  
+- **Phone:** 0660066345  
 - **GitHub:** (https://github.com/Mathadaz) 
 - **LinkedIn:** (www.linkedin.com/in/zwivhuya-mathada-428997233)
