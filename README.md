@@ -1,7 +1,11 @@
 # Zwivhuya Mathada-portfolio
 Welcome to my portfolio repo. This includes key elements from my training in career readiness, soft skills, and workplace professionalism.
 
-# Career Counseling
+# Work Readness
+<img width="1775" height="847" alt="image" src="https://github.com/user-attachments/assets/4a5b88cd-4b75-4e52-8e47-9766153dfc08" />
+<img width="1748" height="830" alt="image" src="https://github.com/user-attachments/assets/d09e97f1-dca9-49ef-8863-61a1cc6a26ed" />
+<img width="1766" height="821" alt="image" src="https://github.com/user-attachments/assets/667284ba-01cf-41de-a760-22db1c304f93" />
+<img width="1761" height="823" alt="image" src="https://github.com/user-attachments/assets/15aaac17-2674-4211-b23b-ee7a6362c88d" />
 
 ## About Me
 Hi, I am Zwivhuya Mathada, a motivated individual with a strong passion in professional growth for techand an aspiring Application Developer with a strong interest in building scalable, user-focused digital solutions. This portfolio highlights my personal and technical development throughout the Work Readiness Programme and demonstrates my readiness for the workplace. This portfolio highlights my achievements, training, and skills gained through the Work Readiness Programme.
